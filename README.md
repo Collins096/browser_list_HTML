@@ -1,43 +1,17 @@
-Browser List HTML Project
-Overview
-This project is a simple HTML5 webpage that demonstrates the use of semantic HTML description list elements to display information about major web browsers. It is designed as a beginner-friendly exercise to practice structuring web content correctly using HTML.
+# Browser List HTML Project
 
-The page presents a list of commonly used browsers along with brief descriptions of each one.
+## Overview
+This project is a simple HTML5 webpage that demonstrates the use of semantic HTML description list elements to display information about major web browsers. It serves as a beginner-friendly exercise for practicing proper HTML structure and content organization.
 
-Features
-Uses semantic HTML5 structure
+The webpage presents a list of popular web browsers along with short descriptions of each.
 
-Demonstrates the <dl>, <dt>, and <dd> elements
+## Features
+- Semantic HTML5 structure
+- Use of description list elements (`dl`, `dt`, `dd`)
+- Clean and simple layout
+- Beginner-friendly project
 
-Clean and simple webpage layout
+## Technologies Used
+- HTML5
 
-Beginner-friendly project for learning HTML fundamentals
-
-Technologies Used
-HTML5
-
-Project Structure
-browser-list-html/
-│
-├── index.html
-└── README.md
-How to Run the Project
-Download or clone the repository.
-
-Open the project folder.
-
-Double-click index.html or open it in a web browser.
-
-Learning Purpose
-This project was created to practice:
-
-Basic HTML page structure
-
-Semantic markup
-
-Description lists in HTML
-
-Organizing simple web content
-
-Author
-Collins Mwangi
+## Project Structure
