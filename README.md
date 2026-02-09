@@ -15,3 +15,22 @@ The webpage presents a list of popular web browsers along with short description
 - HTML5
 
 ## Project Structure
+browser-list-html/
+├── index.html
+└── README.md
+
+
+## How to Run the Project
+1. Clone or download the repository.
+2. Open the project folder.
+3. Open `index.html` in any web browser.
+
+## Learning Purpose
+This project was created to practice:
+- HTML document structure
+- Semantic HTML elements
+- Description lists
+- Organizing webpage content
+
+## Author
+Collins Mwangi
